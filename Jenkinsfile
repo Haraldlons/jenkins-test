@@ -7,6 +7,7 @@ pipeline {
             steps {
                 sh 'node --version'
                 sh 'echo Hei på deg'
+                sh 'update 10:48'
             }
         }
     }
