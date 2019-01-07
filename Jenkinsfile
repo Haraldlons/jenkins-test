@@ -11,6 +11,7 @@ pipeline {
                 sh 'echo update 07:53'
                 sh 'echo update 08:38'
                 sh 'echo update 08:40'
+                sh 'echo update 09:44'
             }
         }
     }
